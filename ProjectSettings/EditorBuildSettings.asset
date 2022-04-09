@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes 2.0/LevelLoader.unity
+    guid: e0227a0a13340484faf2b10ef13fbaf2
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_1(Fruits&Bread).unity
+    guid: 86f73a3feebaa8c46b21018da894d9fa
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_2(Flowers&Gadgets).unity
+    guid: 93161dd5872a3294099aa16fe4579383
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_3(Drinks&Food).unity
+    guid: 54f83901a4cbc3c42ba2b84440bbd9f1
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_4(Wild & Sea Animals).unity
+    guid: c967643abd7b6614ea0e0fbad079e7bd
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_5(Vegetables And meat).unity
+    guid: 995251b3254b9ad48aa8946a411b6958
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_6(Humans And SuperHumans).unity
+    guid: 3fd03ba56b25f54499aa951d918114c9
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_7(Boy and Girl).unity
+    guid: cb56ac61f3b7c494680a4801812e243c
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_8(Veggies and Fruits).unity
+    guid: c8a793502171fba40972345d515b4ab5
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_9(Sea & Dinosaur).unity
+    guid: 243534214cde226429773d44716638ae
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_10(Boy & Girls Dress).unity
+    guid: 8a5211db8eb2d1a47b6f4e9a2c7723d0
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_11(Cars and Trucks).unity
+    guid: e9493e7e7b53a4c479880893416ec72d
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_12(Electronics & Tools).unity
+    guid: 811e2d3bcd016b74491d43f72e9ab877
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_13(Music & Sports).unity
+    guid: e0808070969324d4aa33e27969547a0e
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_14(Angels & Devils).unity
+    guid: 0d65f85ee326a054ca731541472dbf72
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_15(Clothes & Shoes).unity
+    guid: dd99b95385d659a41a5537d7653d0485
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_16(Hearts & Faces).unity
+    guid: adb0e321262b7bd4d927480c42dce609
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_17(Smiley & Other Faces).unity
+    guid: ea79af5bbdf210847aa0fa63ba0d202f
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_18(Shoes & Accessory).unity
+    guid: baa6146924f40b942897380e5ccdc42f
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_19(Train & Building).unity
+    guid: acf1fdb673251bc428ac15582eba6558
+  - enabled: 1
+    path: Assets/KindOf Scenes/Level_20(Sea & Planes Ways).unity
+    guid: 6c6c2b2c53c6e16409a973dc81d3c3c1
+  m_configObjects: {}
